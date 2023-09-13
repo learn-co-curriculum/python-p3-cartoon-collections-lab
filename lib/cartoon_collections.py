@@ -3,7 +3,6 @@ def roll_call_dwarves():
 
 def summon_captain_planet():
     pass
-
 def long_planeteer_calls():
     pass
 
